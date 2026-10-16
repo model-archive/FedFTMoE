@@ -1,4 +1,4 @@
-FedFTMoE: Personalized Federated Learning with a Feature Transformation Network and Mixture-of-Experts Enhancement for Multi-Institutional LDCT Denoising
+FedFTMoE: Tackling Data Heterogeneity in Multi-Institutional LDCT Denoising via Mixture-of-Experts and Feature Transformation
 
 
 ## ⚡ Train
